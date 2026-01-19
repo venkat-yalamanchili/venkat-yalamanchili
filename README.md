@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Venkat from California<br><br>- 🔭 I learn work, build, deploy and maintain</p>
+<p align="left">I'm Venkat from California<br><br>- 🔭 I learn, work, build, deploy and maintain</p>
 
 ###
 
