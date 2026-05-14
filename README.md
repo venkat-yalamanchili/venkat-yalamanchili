@@ -77,7 +77,7 @@
 
 ###
 
-<h3 align="left">Growth and direction 🚀</h3>
+<h3 align="left">Growth 🚀</h3>
 
 ###
 
