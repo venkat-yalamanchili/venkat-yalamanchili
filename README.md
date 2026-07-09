@@ -6,7 +6,7 @@
 Turning raw data into decisions — 3 years building dashboards, pipelines, and risk models
 that drive real business outcomes in lending, product, and retail analytics.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yalamanchili-venkat/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yalamanchilivenkat56@gmail.com)
 
@@ -79,7 +79,7 @@ End-to-end churn analytics on 6.4K telecom customers — identified a **27% chur
 flagged **380 high-risk customers** via a Random Forest model, and built interactive
 Power BI dashboards for retention targeting.
 
-### 🗄️ [Retail Data Modeling]([YOUR_GITHUB_LINK](https://github.com/venkat-yalamanchili/Retail-Data-Modeling.git)
+### 🗄️ [Retail Data Modeling](https://github.com/venkat-yalamanchili/Retail-Data-Modeling.git)
 `MS SQL Server` `OLTP/OLAP` `Star Schema` `Normalization`
 Modeled 7 normalized transactional entities and a sales-focused star schema, reducing data
 redundancy and reporting friction for multi-branch retail operations.
