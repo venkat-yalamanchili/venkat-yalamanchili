@@ -1,91 +1,105 @@
-<div align="left">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center">
+
+# Hi, I'm Venkat Yalamanchili 👋
+### Data Analyst | SQL • Python • Power BI • Cloud Data Platforms
+
+Turning raw data into decisions — 3 years building dashboards, pipelines, and risk models
+that drive real business outcomes in lending, product, and retail analytics.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yalamanchilivenkat56@gmail.com)
+
 </div>
 
-###
+---
+
+## 🎯 About Me
+
+Data Analyst with 3 years of experience turning SQL, Python, and Power BI into decisions.
+Currently building mortgage/lending analytics at **Newrez**, with prior experience in product
+analytics and BI development across fintech and ed-tech domains. I specialize in taking messy,
+large-scale data and turning it into dashboards and models that businesses actually act on.
+
+- 🏦 Currently automating loan underwriting dashboards that cut decision time by **20%**
+- 📊 Background spanning **lending risk analysis**, **product A/B testing**, and **retail data modeling**
+- 🎓 MS Computer Science @ California State University (May 2026) · CPT authorized → OPT-STEM eligible
+- 🔭 Always building — check out my pinned projects below
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Analysis**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+**Visualization & BI**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+**Data Platforms & Cloud**
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat&logo=alteryx&logoColor=white)
+
+---
+
+## 💼 Experience Snapshot
+
+**Data Analyst · Newrez** (Remote, USA) — *June 2025 – Current*
+Built automated mortgage dashboards (SQL + Power BI) cutting underwriting decision time 20%;
+identified high-risk borrower segments via Python/BigQuery analysis, reducing projected
+delinquency risk 12%.
+
+**Product Analyst · Teachnook** (Bangalore, India) — *Sept 2023 – July 2024*
+Ran A/B pricing tests that lifted premium enrollments 15%; built Power BI dashboards from
+Snowflake data that improved student retention 12%.
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 [Retail Marketing Funnel & A/B Conversion Analysis](https://github.com/venkat-yalamanchili/A-B-Testing-on-Funnel-analysis.git)
+`SQL Server` `Power BI` `A/B Testing` `Funnel Analysis`
+Analyzed an A/B marketing funnel — Test Campaign achieved **40% higher conversion** and
+**476 more purchases** despite 29.6% fewer impressions.
+
+### 📉 [Telecom Churn Analytics & Prediction](https://github.com/venkat-yalamanchili/Telecom_Churn_Intelligence.git)
+`Python` `SQL` `Random Forest` `Power BI`
+End-to-end churn analytics on 6.4K telecom customers — identified a **27% churn rate**,
+flagged **380 high-risk customers** via a Random Forest model, and built interactive
+Power BI dashboards for retention targeting.
+
+### 🗄️ [Retail Data Modeling]([YOUR_GITHUB_LINK](https://github.com/venkat-yalamanchili/Retail-Data-Modeling.git))
+`MS SQL Server` `OLTP/OLAP` `Star Schema` `Normalization`
+Modeled 7 normalized transactional entities and a sales-focused star schema, reducing data
+redundancy and reporting friction for multi-branch retail operations.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yalamanchili-venkat/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="venkatyalamanchili56@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="https://www.hackerrank.com/profile/venkatyalamanch1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
+
+![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkat-yalamanchili&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-yalamanchili&layout=compact&hide_border=true)
+
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=venkat-yalamanchili.venkat-yalamanchili&right_color=chocolate"  />
+
+📫 **Let's connect:** yalamanchilivenkat56@gmail.com | [LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL)
+
 </div>
-
-###
-
-<h1 align="center">Hi, I’m Venkat — AI/ML Developer & Open-Source Enthusiast</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Venkat from California<br><br>- 🔭 I learn, work, build, deploy and maintain</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-</div>
-
-###
-
-<h3 align="left">Growth 🚀</h3>
-
-###
-
-<p align="left">🌱 Currently learning: Rust & System Design<br><br>🔭 Building: AI chatbot for elderly<br><br>🧪 Experimenting with: AI tools / DevOps / Web3</p>
-
-###
-
-<div align="center">
-</div>
-
-###
