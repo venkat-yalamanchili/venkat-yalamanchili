@@ -79,22 +79,10 @@ End-to-end churn analytics on 6.4K telecom customers — identified a **27% chur
 flagged **380 high-risk customers** via a Random Forest model, and built interactive
 Power BI dashboards for retention targeting.
 
-### 🗄️ [Retail Data Modeling]([YOUR_GITHUB_LINK](https://github.com/venkat-yalamanchili/Retail-Data-Modeling.git))
+### 🗄️ [Retail Data Modeling]([YOUR_GITHUB_LINK](https://github.com/venkat-yalamanchili/Retail-Data-Modeling.git)
 `MS SQL Server` `OLTP/OLAP` `Star Schema` `Normalization`
 Modeled 7 normalized transactional entities and a sales-focused star schema, reducing data
 redundancy and reporting friction for multi-branch retail operations.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkat-yalamanchili&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-yalamanchili&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
