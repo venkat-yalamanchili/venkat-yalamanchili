@@ -88,6 +88,6 @@ redundancy and reporting friction for multi-branch retail operations.
 
 <div align="center">
 
-📫 **Let's connect:** yalamanchilivenkat56@gmail.com | [LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL)
+📫 **Let's connect:** yalamanchilivenkat56@gmail.com | [LinkedIn](https://www.linkedin.com/in/yalamanchili-venkat) | [Portfolio](YOUR_PORTFOLIO_URL)
 
 </div>
