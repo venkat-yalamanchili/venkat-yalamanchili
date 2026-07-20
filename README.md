@@ -68,7 +68,7 @@ Snowflake data that improved student retention 12%.
 
 ## 🚀 Featured Projects
 
-### 📈 [Retail Marketing Funnel & A/B Conversion Analysis](https://github.com/venkat-yalamanchili/A-B-Testing-on-Funnel-analysis.git)
+### 📈 [Marketing Funnel & A/B Conversion Analysis](https://github.com/venkat-yalamanchili/A-B-Testing-on-Funnel-analysis.git)
 `SQL Server` `Power BI` `A/B Testing` `Funnel Analysis`
 Analyzed an A/B marketing funnel — Test Campaign achieved **40% higher conversion** and
 **476 more purchases** despite 29.6% fewer impressions.
