@@ -56,7 +56,7 @@ large-scale data and turning it into dashboards and models that businesses actua
 ## 💼 Experience Snapshot
 
 **Data Analyst · Newrez** (Remote, USA) — *June 2025 – Current*
-Built automated mortgage dashboards (SQL + Power BI) cutting underwriting decision time 20%;
+Built automated mortgage dashboards (SQL + Power BI) cutting underwriting decision time 10%;
 identified high-risk borrower segments via Python/BigQuery analysis, reducing projected
 delinquency risk 12%.
 
