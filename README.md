@@ -23,7 +23,7 @@ large-scale data and turning it into dashboards and models that businesses actua
 
 - 🏦 Currently automating loan underwriting dashboards that cut decision time by **20%**
 - 📊 Background spanning **lending risk analysis**, **product A/B testing**, and **retail data modeling**
-- 🎓 MS Computer Science @ California State University (May 2026) · CPT authorized → OPT-STEM eligible
+- 🎓 MS Computer Science @ California State University (May 2026) · OPT authorized → OPT-STEM eligible
 - 🔭 Always building — check out my pinned projects below
 
 ---
@@ -55,7 +55,7 @@ large-scale data and turning it into dashboards and models that businesses actua
 
 ## 💼 Experience Snapshot
 
-**Data Analyst · Newrez** (Remote, USA) — *June 2025 – Current*
+**Data Analyst · Newrez** (Remote, USA) — *June 2025 – Present*
 Built automated mortgage dashboards (SQL + Power BI) cutting underwriting decision time 10%;
 identified high-risk borrower segments via Python/BigQuery analysis, reducing projected
 delinquency risk 12%.
