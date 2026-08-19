@@ -2,7 +2,7 @@
 
 ### Senior Data Analyst | Transforming complex data into actionable insights
 
-I am a Senior Data Analyst with around 5 years of experience across the Healthcare, Banking, and Retail domains. I specialize in analyzing large datasets, optimizing complex queries, and developing interactive dashboards that drive strategic, data-driven decisions.
+I am a Senior Data Analyst with around 5 years of experience across the Healthcare, Banking, and Retail domains. I specialize in analyzing large datasets, optimizing complex queries, and developing interactive dashboards that drive strategic, data-driven decisions. Currently, at Kaiser Permanente, my role is focused heavily on end-to-end data quality for healthcare claims and patient encounter data. I work with datasets containing millions of records, validate data at every stage of the pipeline, investigate unusual patterns and edge cases, collaborate with engineering on source-level fixes, and deliver Power BI outputs used by leadership
 
 ## 🛠️ Technical Skills
 
